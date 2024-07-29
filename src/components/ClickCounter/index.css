@@ -1,0 +1,43 @@
+/* Write your CSS here */
+
+.bg-contener {
+  background-color: #f1f5f8;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contaner {
+  background-color: #8ec5fc;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.heading {
+  color: #2d3a35;
+  font-size: medium;
+  font-family: 'Roboto';
+}
+
+.derpe {
+  color: #2d3a35;
+  font-size: 30px;
+}
+.span-con {
+  color: #c20a72;
+  font-size: 30px;
+  padding: 4px;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border-radius: 8px;
+  padding: 8px;
+  border: 0px solid #007bff;
+}
